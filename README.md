@@ -1,6 +1,6 @@
 # python_if_statements
 Q1. 
-Write a C program to read temperature in centigrade and display a suitable message according to temperature state below : 
+Write a python program to read temperature in centigrade and display a suitable message according to temperature state below : 
 Temp < 0 then Freezing weather
 Temp 0-10 then Very Cold weather
 Temp 10-20 then Cold weather
