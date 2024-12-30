@@ -18,3 +18,10 @@ Test Data : 12 25 52
 Expected Output :
 1st Number = 12,        2nd Number = 25,        3rd Number = 52
 The 3rd Number is the greatest among three
+
+-- -------------------------------------------------------------
+Q3. Write a fragment of code that allows the user to convert a temperature given in degrees from either Celsius to Fahrenheit or Fahrenheit to Celsius. Use the following formulas:
+ ![image](https://github.com/user-attachments/assets/2e1f1310-1632-4d76-bee3-1d6e5e5ca761)
+
+Prompt the user to enter a temperature and either C for Celsius or F for Fahrenheit. Convert the temperate to Fahrenheit if Celsius is entered, or to Celsius if Fahrenheit is entered. If anything other than C or F is entered, print an error message.
+
